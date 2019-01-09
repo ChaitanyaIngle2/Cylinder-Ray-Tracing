@@ -1,0 +1,20 @@
+D:\Downloads\RayTraceSphere\Assignment6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RayTraceSphere.csprojAssemblyReference.cache
+D:\Downloads\RayTraceSphere\Assignment6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Downloads\RayTraceSphere\Assignment6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RayTraceSphere.csproj.GenerateResource.cache
+D:\Downloads\RayTraceSphere\Assignment6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RayTraceSphere.csproj.CoreCompileInputs.cache
+D:\Downloads\RayTraceSphere\Assignment6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Downloads\RayTraceSphere\Assignment6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Downloads\RayTraceSphere\Assignment6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Downloads\RayTraceSphere\Assignment6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Downloads\RayTraceSphere\Assignment6\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Downloads\RayTraceSphere\Assignment6\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\RayTraceSphere.RayTraceSphere.resources
+D:\Downloads\New folder\Assignment6\RayTraceSphere\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Downloads\New folder\Assignment6\RayTraceSphere\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Downloads\New folder\Assignment6\RayTraceSphere\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Downloads\New folder\Assignment6\RayTraceSphere\WindowsFormsApp1\obj\Debug\RayTraceSphere.csprojAssemblyReference.cache
+D:\Downloads\New folder\Assignment6\RayTraceSphere\WindowsFormsApp1\obj\Debug\RayTraceSphere.RayTraceSphere.resources
+D:\Downloads\New folder\Assignment6\RayTraceSphere\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Downloads\New folder\Assignment6\RayTraceSphere\WindowsFormsApp1\obj\Debug\RayTraceSphere.csproj.GenerateResource.cache
+D:\Downloads\New folder\Assignment6\RayTraceSphere\WindowsFormsApp1\obj\Debug\RayTraceSphere.csproj.CoreCompileInputs.cache
+D:\Downloads\New folder\Assignment6\RayTraceSphere\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Downloads\New folder\Assignment6\RayTraceSphere\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
